@@ -1,0 +1,24 @@
+[submodule "study-A01"]
+	path = study-A01
+	url = https://github.com/pni-data/TRR289_A01
+	datalad-id = 3fadb3c7-2726-4f66-9b21-b72a140e075e
+[submodule "study-A02"]
+	path = study-A02
+	url = https://github.com/pni-data/TRR289_A02
+	datalad-id = 25fd4bab-37cd-468e-9760-e813a05934b7
+[submodule "study-A03"]
+	path = study-A03
+	url = https://github.com/pni-data/TRR289_A03
+	datalad-id = fb95484f-6ceb-4fc3-b3fe-769b04ba5781
+[submodule "study-A04"]
+	path = study-A04
+	url = https://github.com/pni-data/TRR289_A04
+	datalad-id = f2ca91f7-b473-4638-b303-b2aa3723075a
+[submodule "study-A06"]
+	path = study-A06
+	url = https://github.com/pni-data/TRR289_A06
+	datalad-id = 11b8b530-aff7-447f-aade-f0f6f0d16842
+[submodule "study-A11"]
+	path = study-A11
+	url = https://github.com/pni-data/TRR289_A11
+	datalad-id = 91bd1ced-bddd-4d32-bad3-528076956895
