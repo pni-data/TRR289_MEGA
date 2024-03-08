@@ -1,4 +1,4 @@
-# TRR289 A01
+# TRR289 MEGA Dataset
 
 ## ℹ️ Information
 *This repository is the Github sibling of the corresponding [DataLad](https://www.datalad.org/) dataset, i.e. it **does not** contain the data itself.*
