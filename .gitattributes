@@ -1,2 +1,5 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+bids_mapper.json annex.largefiles=nothing
+dataset_description.json annex.largefiles=nothing
+studies.tsv annex.largefiles=nothing
