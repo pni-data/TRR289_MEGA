@@ -1,1 +1,22 @@
-.git/annex/objects/jv/fV/MD5E-s410--fea130df4f6603d9152933f4bf22c354.json/MD5E-s410--fea130df4f6603d9152933f4bf22c354.json
+[{
+    "MegaEntity":"GROUP-CONTROL",
+    "Entity":"sub-*",
+    "Scope":[
+        "study-A01",
+        "study-A02",
+        "study-A03",
+        "study-A04",
+        "study-A06",
+        "study-A11"
+    ]
+ },
+ {
+    "MegaEntity":"GROUP-CONTROL",
+    "ParticipantInfo":"group-HC",
+    "Scope":["study-A08"]
+ },
+ {
+    "MegaEntity":"GROUP-PATIENT",
+    "ParticipantInfo":"group-MDD",
+    "Scope":["study-A08"]
+ }]

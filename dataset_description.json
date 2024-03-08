@@ -1,1 +1,20 @@
-.git/annex/objects/v9/VJ/MD5E-s485--50c5e8d35594972cd1017733d935a781.json/MD5E-s485--50c5e8d35594972cd1017733d935a781.json
+[{
+    "Name": "SFB289 Mega-Analysis",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "mega-analysis",
+    "License": "<License>",
+    "Authors": [
+      "Ulrike Bingel",
+      "Christian Büchel",
+      "Michael Rose",
+      "Sigrid Elsenbruch",
+      "Stefanie Brassen",
+      "Sven Benson"
+      ],
+    "ReferencesAndLink": "<reference article>",
+    "MegaEntities": [{
+      "Key": "GROUP",
+      "Values" : ["CONTROL", "PATIENT"],
+      "Description": "Group membership"
+    }]
+}]
